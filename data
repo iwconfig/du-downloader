@@ -1,0 +1,71 @@
+{
+    'Att referera och om plagiering': {
+        'url': 'http://www.du.se/sv/bibliotek/referera/',
+        'moment': {
+            'files': {}
+        }
+    },
+    'Filosofins historia': {
+        'url':
+            'https://learn.du.se/webapps/blackboard/content/listContent.jsp?course_id=_2148_1&content_id=_136187_1',
+        'moment': {
+            '2. Föreläsning Försokratiekr - Platon':
+                'https://learn.du.se/webapps/blackboard/content/listContent.jsp?course_id=_2148_1&content_id=_136188_1',
+            '3. Föreläsning Aristoteles - medeltiden':
+                'https://learn.du.se/webapps/blackboard/content/listContent.jsp?course_id=_2148_1&content_id=_136189_1',
+            'files': {
+                'Diskussionsfrågor 180906':
+                    'https://learn.du.se/bbcswebdav/pid-160484-dt-content-rid-8425887_1/xid-8425887_1'
+            },
+            '4. Föreläsning Tre rationalister':
+                'https://learn.du.se/webapps/blackboard/content/listContent.jsp?course_id=_2148_1&content_id=_136190_1',
+            '01. Introduktionsföreläsning':
+                'https://learn.du.se/webapps/blackboard/content/listContent.jsp?course_id=_2148_1&content_id=_136198_1',
+            '5. Föreläsning Tre empirister':
+                'https://learn.du.se/webapps/blackboard/content/listContent.jsp?course_id=_2148_1&content_id=_136191_1',
+            '10. Föreläsning Analytisk filosofi':
+                'https://learn.du.se/webapps/blackboard/content/listContent.jsp?course_id=_2148_1&content_id=_136196_1',
+            '8. Föreläsning Hegel och föreläsning Schopenhauer och Nietzsche':
+                'https://learn.du.se/webapps/blackboard/content/listContent.jsp?course_id=_2148_1&content_id=_136194_1',
+            '6. Föreläsning Kant':
+                'https://learn.du.se/webapps/blackboard/content/listContent.jsp?course_id=_2148_1&content_id=_136192_1',
+            '9. Föreläsning Kontinental tradition':
+                'https://learn.du.se/webapps/blackboard/content/listContent.jsp?course_id=_2148_1&content_id=_136195_1',
+            '11. Föreläsning Feministiska perspektiv på filosofins historia':
+                'https://learn.du.se/webapps/blackboard/content/listContent.jsp?course_id=_2148_1&content_id=_136197_1'
+        }
+    },
+    'Värdeteori och normativ etik': {
+        'url':
+            'https://learn.du.se/webapps/blackboard/content/listContent.jsp?course_id=_2148_1&content_id=_136276_1',
+        'moment': {
+            'files': {
+                'Seminarieuppgifter Värdeteori och normativ etik':
+                    'https://learn.du.se/bbcswebdav/pid-136286-dt-content-rid-8272590_1/xid-8272590_1',
+                'Melin, R. Animalism and person as a Basic Sort':
+                    'https://learn.du.se/bbcswebdav/pid-136287-dt-content-rid-8272589_1/xid-8272589_1',
+                'Snellman Personbegreppet':
+                    'https://learn.du.se/bbcswebdav/pid-136288-dt-content-rid-8272588_1/xid-8272588_1',
+                'Frågor till seminarium om person och personlig identitet':
+                    'https://learn.du.se/bbcswebdav/pid-136289-dt-content-rid-8272587_1/xid-8272587_1',
+                'Bergströms taxonomiska mellanspel':
+                    'https://learn.du.se/bbcswebdav/pid-136285-dt-content-rid-8272591_1/xid-8272591_1'
+            }
+        }
+    },
+    'Epistemologi och vetenskapsteori': {
+        'url':
+            'https://learn.du.se/webapps/blackboard/content/listContent.jsp?course_id=_2148_1&content_id=_136251_1',
+        'moment': {
+            'files': {
+                'Seminariefrågor till Feministiska perspektiv på vetenskap':
+                    'https://learn.du.se/bbcswebdav/pid-136263-dt-content-rid-8272584_1/xid-8272584_1',
+                'Seminariefrågor till Vetenskapsutveckling':
+                    'https://learn.du.se/bbcswebdav/pid-136262-dt-content-rid-8272585_1/xid-8272585_1',
+                'Seminariefrågor till Förklaring och förståelse':
+                    'https://learn.du.se/bbcswebdav/pid-136261-dt-content-rid-8272586_1/xid-8272586_1'
+            }
+        }
+    }
+}
+

@@ -1,0 +1,3 @@
+selenium
+requests-html
+youtube_dl
